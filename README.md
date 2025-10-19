@@ -8,6 +8,8 @@ It displays a small menu (भावफलक) of items like Chaha, Premacha Spec
 
 The program calculates the total amount and displays the final bill — just like at a real tapri! 
 
+
+
 Features:
 
  Shows a mini Marathi-style menu card.
@@ -19,6 +21,8 @@ Features:
  Fully written in Marathi flavor using C++.
 
 
+
+ 
  Technologies Used:
 
  C++ Programming Language
